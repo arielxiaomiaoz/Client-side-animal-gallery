@@ -19,3 +19,4 @@ Return the animals array to the client using `response.json(animals)`.
 
 Test everything using Postman.
 
+[Tony's link](https://github.com/sait-wbdv/in-class/tree/main/week09f/animal-fetch)
